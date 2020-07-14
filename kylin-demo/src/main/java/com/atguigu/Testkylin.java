@@ -36,7 +36,7 @@ public class Testkylin {
                              + "CT:" + resultSet.getLong(2));
         }
 
-        System.out.println("hotFix");
+        System.out.println("hotfix");
 
         //关闭资源
         resultSet.close();
